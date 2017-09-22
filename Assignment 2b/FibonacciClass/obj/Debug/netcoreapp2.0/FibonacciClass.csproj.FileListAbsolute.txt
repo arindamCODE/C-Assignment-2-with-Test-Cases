@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\obj\Debug\netcoreapp2.0\FibonacciClass.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\obj\Debug\netcoreapp2.0\FibonacciClass.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\obj\Debug\netcoreapp2.0\FibonacciClass.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\bin\Debug\netcoreapp2.0\FibonacciClass.deps.json
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\bin\Debug\netcoreapp2.0\FibonacciClass.runtimeconfig.json
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\bin\Debug\netcoreapp2.0\FibonacciClass.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\bin\Debug\netcoreapp2.0\FibonacciClass.dll
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\bin\Debug\netcoreapp2.0\FibonacciClass.pdb
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\obj\Debug\netcoreapp2.0\FibonacciClass.dll
+C:\Users\Administrator\Desktop\C# Assignment 2 with testCases\Assignment 2b\FibonacciClass\obj\Debug\netcoreapp2.0\FibonacciClass.pdb
