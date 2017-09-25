@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\C# Assignment 2 with testCases\\Assignment 2a\\ArrayClass\\ArrayClass.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2 with testCases\\Assignment 2a\\ArrayClass\\ArrayClass.csproj",
       "projectName": "ArrayClass",
-      "projectPath": "c:\\Users\\Administrator\\Desktop\\C# Assignment 2 with testCases\\Assignment 2a\\ArrayClass\\ArrayClass.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2 with testCases\\Assignment 2a\\ArrayClass\\ArrayClass.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Administrator\\Desktop\\C# Assignment 2 with testCases\\Assignment 2a\\ArrayClass\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\C# Assignment 2 with testCases\\Assignment 2a\\ArrayClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
